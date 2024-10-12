@@ -1,0 +1,32 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/workspaces/comp2811/3. Inheritance - rectangle extension/circle2.hpp
+cmath
+-
+shape.hpp
+/workspaces/comp2811/3. Inheritance - rectangle extension/shape.hpp
+
+/workspaces/comp2811/3. Inheritance - rectangle extension/rect.hpp
+shape.hpp
+/workspaces/comp2811/3. Inheritance - rectangle extension/shape.hpp
+
+/workspaces/comp2811/3. Inheritance - rectangle extension/shape.hpp
+
+/workspaces/comp2811/3. Inheritance - rectangle extension/shapedemo.cpp
+iostream
+-
+vector
+-
+shape.hpp
+/workspaces/comp2811/3. Inheritance - rectangle extension/shape.hpp
+circle2.hpp
+/workspaces/comp2811/3. Inheritance - rectangle extension/circle2.hpp
+rect.hpp
+/workspaces/comp2811/3. Inheritance - rectangle extension/rect.hpp
+
